@@ -36,7 +36,7 @@ Using Python and modern data analysis libraries, the analysis identifies funding
 | Source | Kaggle |
 | Time Period | 2015–2020 |
 | Records | 3,044 |
-| Features | 10 |
+| Features | 8 |
 | Format | CSV |
 
 ### Dataset Features
@@ -69,12 +69,12 @@ Using Python and modern data analysis libraries, the analysis identifies funding
 ```text
 Startup-Funding-Analysis/
 │
-├── data/
+├── 01_Data/
 │   ├── raw/
 │   └── cleaned/
-├── notebooks/
-├── images/
-├── reports/
+├── 02_Notebooks/
+├── 03_Images/
+├── 04_Conclusion/
 └── README.md
 ```
 
@@ -160,7 +160,7 @@ Charts are available in the **images/** folder:
 
 Aspiring Data Analyst
 
-**Skills:** Python • SQL • Excel • Power BI • Pandas
+**Skills:** Python • pandas • matplotlib • seaborn • plotly • EDA
 
 ---
 
